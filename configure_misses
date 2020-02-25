@@ -1,0 +1,42 @@
+Configure miss: whether _AIX is declared
+Configure miss: whether __sun is declared
+Configure miss: whether __hpux is declared
+Configure miss: which _XOPEN_SOURCE macro must be defined
+Configure miss: whether strlcat is declared
+Configure miss: whether compiling for native Win32
+Configure miss: libdevinfo.h usability
+Configure miss: libdevinfo.h presence
+Configure miss: libdevinfo.h
+Configure miss: mach/machine.h usability
+Configure miss: mach/machine.h presence
+Configure miss: mach/machine.h
+Configure miss: sys/fstyp.h usability
+Configure miss: sys/fstyp.h presence
+Configure miss: sys/fstyp.h
+Configure miss: sys/mnttent.h usability
+Configure miss: sys/mnttent.h presence
+Configure miss: sys/mnttent.h
+Configure miss: sys/mnttab.h usability
+Configure miss: sys/mnttab.h presence
+Configure miss: sys/mnttab.h
+Configure miss: sys/proc.h
+Configure miss: sys/sar.h
+Configure miss: whether struct sg_vector needs alignment helper
+Configure miss: struct statvfs.f_iosize
+Configure miss: struct statvfs64.f_fstypename
+Configure miss: struct statvfs64.f_basetype
+Configure miss: struct statvfs64.f_iosize
+Configure miss: sysfs
+Configure miss: struct utmpx.ut_syslen
+Configure miss: struct sockaddr_storage.__ss_family
+Configure miss: whether MNT_MNTTAB is declared
+Configure miss: struct mnttab
+Configure miss: apparent thread safety of getmntent
+Configure miss: struct statfs.f_favail
+Configure miss: struct statfs.f_iosize
+Configure miss: working ncurses
+Configure miss: whether to build examples
+Configure miss: applicable docbook2man
+Configure miss: whether PTHREAD_ONCE_INIT needs braces
+Configure miss: whether PTHREAD_MUTEX_INITIALIZER needs braces
+Configure miss: if liblog4cplus wants a prefix
